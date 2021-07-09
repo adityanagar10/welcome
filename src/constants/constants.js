@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description: "Fully working E-Commerce website using React,Redux,Firebase and Stripe",
-      image: '/images/1.png',
+      image: '/images/1.PNG',
       tags: ['React', 'Firebase', 'Stripe', 'SASS'],
     source: 'https://github.com/adityanagar10/adta-clothing',
     visit: 'https://adta-clothing.herokuapp.com/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'MediArc',
     description: "Helps Patients find the nearest doctors in their area",
-      image: '/images/3.png',
+      image: '/images/3.PNG',
       tags: ['Node.js', 'Mongo', 'JavaScript'],
     source: 'https://github.com/adityanagar10/mediarc',
     visit: 'https://salty-brook-12279.herokuapp.com/',
