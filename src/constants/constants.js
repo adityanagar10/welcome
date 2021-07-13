@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description: "Fully working E-Commerce website using React,Redux,Firebase and Stripe",
-      image: '/images/1.PNG',
+      image: '/images/1.png',
       tags: ['React', 'Firebase', 'Stripe', 'SASS'],
     source: 'https://github.com/adityanagar10/adta-clothing',
     visit: 'https://adta-clothing.herokuapp.com/',
