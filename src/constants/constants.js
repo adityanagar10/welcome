@@ -9,8 +9,17 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Social Media',
+    description: "Find Friends,Follow them and Post new memories     *Not hosted Yet*",
+      image: '/images/4.PNG',
+      tags: ['Node.js', 'React', 'Mongo'],
+    source: 'https://github.com/adityanagar10/adta-social-media',
+    visit: '',
+    id: 2,
+  },
+  {
     title: 'Pawhelper',
-    description:"Aims at helping Stray Dogs by providing them with a home",
+    description:"Aims at helping Stray Dogs by providing them with a home ,",
     image: '/images/2.jpg',
     tags: ['Node.js', 'JavaScript','Mongo'],
     source: 'https://github.com/adityanagar10/paw-helper',
