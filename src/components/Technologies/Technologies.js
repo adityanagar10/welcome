@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      From Back-end To Design and have also started developing mobile applications
     </SectionText>
     <List>
       <ListItem>
@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Android/ iOS</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Front-End using React Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
