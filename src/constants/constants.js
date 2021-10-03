@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: 'E-Commerce',
+    title: 'MoneyO',
     description: "The Expense Managing Web-App",
-      image: '/images/4.png',
+      image: '/images/5.png',
       tags: ['React', 'Node.js', 'Stripe', 'CSS'],
     source: 'https://github.com/adityanagar10/MoneyO',
     visit: '',
