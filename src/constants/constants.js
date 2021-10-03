@@ -1,12 +1,21 @@
 export const projects = [
   {
     title: 'E-Commerce',
+    description: "The Expense Managing Web-App",
+      image: '/images/4.png',
+      tags: ['React', 'Node.js', 'Stripe', 'CSS'],
+    source: 'https://github.com/adityanagar10/MoneyO',
+    visit: '',
+    id: 0,
+  },
+  {
+    title: 'E-Commerce',
     description: "Fully working E-Commerce website using React,Redux,Firebase and Stripe",
       image: '/images/1.png',
       tags: ['React', 'Firebase', 'Stripe', 'SASS'],
     source: 'https://github.com/adityanagar10/adta-clothing',
     visit: 'https://adta-clothing.herokuapp.com/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Social Media',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['Node.js', 'JavaScript','Mongo'],
     source: 'https://github.com/adityanagar10/paw-helper',
     visit: 'https://serene-coast-80423.herokuapp.com/',
-    id: 1,
+    id: 3,
   },
   {
     title: 'MediArc',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Node.js', 'Mongo', 'JavaScript'],
     source: 'https://github.com/adityanagar10/mediarc',
     visit: 'https://salty-brook-12279.herokuapp.com/',
-    id: 2,
+    id: 4,
   }
 ];
 
