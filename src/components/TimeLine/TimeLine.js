@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-       I've been writing code for 5+ years now. I have explored various domains from Competitive Coding to Assembly Language, but I have found my domain of interest, Development. I use the M.E.R.N Stack for Web Dev and React Native for App Dev, but am willing to adapt and venture out. Other than working on website, I like sports and Reading books as well.
+       I am a passionate developer with working experience in React and Gatsby along with Node and Strapi CMS. I have developed React Native Apps.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
